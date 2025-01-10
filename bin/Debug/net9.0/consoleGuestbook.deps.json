@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "consoleGuestbook/1.0.0": {
+        "runtime": {
+          "consoleGuestbook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consoleGuestbook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

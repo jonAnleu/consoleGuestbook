@@ -1,0 +1,15 @@
+/Users/jonanleu/repos/consoleGuestbook/bin/Debug/net9.0/consoleGuestbook
+/Users/jonanleu/repos/consoleGuestbook/bin/Debug/net9.0/consoleGuestbook.deps.json
+/Users/jonanleu/repos/consoleGuestbook/bin/Debug/net9.0/consoleGuestbook.runtimeconfig.json
+/Users/jonanleu/repos/consoleGuestbook/bin/Debug/net9.0/consoleGuestbook.dll
+/Users/jonanleu/repos/consoleGuestbook/bin/Debug/net9.0/consoleGuestbook.pdb
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.AssemblyInfoInputs.cache
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.AssemblyInfo.cs
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.csproj.CoreCompileInputs.cache
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.sourcelink.json
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.dll
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/refint/consoleGuestbook.dll
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.pdb
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/consoleGuestbook.genruntimeconfig.cache
+/Users/jonanleu/repos/consoleGuestbook/obj/Debug/net9.0/ref/consoleGuestbook.dll
